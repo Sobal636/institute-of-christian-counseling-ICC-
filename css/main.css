@@ -558,7 +558,7 @@ border:1px solid transparent}
             .section-title h1{margin-bottom:10px}
 
      /* -------------------- Banner ------------------------------------------------------------------ */
-            .banner-area{background:url(../img/Icc\ banner.jpg) right;background-size:cover}
+            .banner-area{background:url(../img/Icc\ banner.png) right;background-size:cover}
             .banner-area .overlay-bg{background-color:rgba(4,9,30,0.8)}@media (max-width: 767px){.fullscreen{height:700px !important}}
             .banner-content{text-align:left}
             .banner-content h1{font-size:48px;font-weight:700;line-height:1em;margin-top:10px;color:#fff}@media (max-width: 991.98px){.banner-content h1{font-size:36px}}@media (max-width: 991.98px){
