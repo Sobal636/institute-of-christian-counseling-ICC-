@@ -558,7 +558,7 @@ border:1px solid transparent}
             .section-title h1{margin-bottom:10px}
 
      /* -------------------- Banner ------------------------------------------------------------------ */
-            .banner-area{background:url(../img/Icc\ banner.png) right;background-size:cover}
+            .banner-area{background:url(../img/Icc\ banner2.png) right;background-size:cover}
             .banner-area .overlay-bg{background-color:rgba(4,9,30,0.8)}@media (max-width: 767px){.fullscreen{height:700px !important}}
             .banner-content{text-align:left}
             .banner-content h1{font-size:48px;font-weight:700;line-height:1em;margin-top:10px;color:#fff}@media (max-width: 991.98px){.banner-content h1{font-size:36px}}@media (max-width: 991.98px){
@@ -588,7 +588,9 @@ border:1px solid transparent}
             .single-popular-carusel .details h4{-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s;margin:20px 0px}
             .single-popular-carusel .details h4:hover{color:#f7631b !important}@media (max-width: 576px){
             .single-popular-carusel{margin:15px}}.single-popular-carusel:hover .thumb img{transform:scale(1.1)}
-            .search-course-area{background:url(../img/s-bg.jpg) center;background-size:cover}
+          
+    /* Deploma Course banner Section---------------------------------------------------------------------  */
+            .search-course-area{background:url(../img/Icc\ banner3.png) center;background-size:cover}
             .search-course-area .overlay-bg{background:rgba(4,9,30,0.8)}
             .search-course-area .search-course-left h1{margin-bottom:20px}@media (max-width: 991px){
             .search-course-area .search-course-left h1{font-size:30px}}
@@ -638,6 +640,8 @@ border:1px solid transparent}
             .single-blog .details-btn .lnr{color:#222;line-height:inherit}
             .single-blog .details-btn:hover{width:140px;background:#f7631b;box-shadow:0px 10px 20px 0px rgba(60,64,143,0.2)}
             .single-blog .details-btn:hover .details{margin-left:0;visibility:visible;opacity:1;margin-right:8px}
+   
+     /* Counseling section Banner -----------------------------------------------------*/
             .single-blog .details-btn:hover span{color:#fff;font-weight:600}.cta-one-area{background:url(../img/cta-bg.jpg) center;background-size:cover;text-align:center;color:#fff}
             .cta-one-area h1,.cta-one-area p{position:relative}
             .cta-one-area p{max-width:670px;margin:20px 0px}@media (max-width: 576px){.cta-one-area p{padding:0% 5%}}
@@ -647,6 +651,8 @@ border:1px solid transparent}
             .cta-two-area .cta-left h1{color:#fff;font-weight:700}
             .cta-two-area .cta-right{text-align:right}@media (max-width: 991px){.cta-two-area .cta-right{text-align:left;margin-top:20px}}
             .link-nav{margin-top:10px;margin-bottom:0px}
+
+    /* About Section Banner-------------------------------------------------------------- */
             .about-banner{background:url(../img/top-banner.jpg) right no-repeat;background-size:cover}
             .about-content{margin-top:110px;padding:90px 0px;text-align:center}@media (max-width: 767px){.about-content{margin-top:70px}}.about-content h1{font-size:48px;font-weight:600}.about-content a{color:#fff;font-weight:300;font-size:14px}
             .about-content .lnr{margin:0px 10px;font-weight:600}
@@ -760,7 +766,7 @@ border:1px solid transparent}
             .gallery-area .single-imgs .overlay-bg{background:rgba(247,99,27,0.85);opacity:0;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s;z-index:2}
             .gallery-area .single-imgs:hover .overlay-bg{opacity:1}
 
-            
+    /*blog Section banner  -------------------------------------------------*/
             .blog-home-banner{background:url(../img/blog/blog-home-banner.jpg) bottom;background-size:cover;padding:130px 0px}
             .blog-home-banner .primary-btn{border-radius:0px;background:#fff;color:#222;font-weight:600;border:1px solid transparent;-webkit-transition:all 0.3s ease 0s;-moz-transition:all 0.3s ease 0s;-o-transition:all 0.3s ease 0s;transition:all 0.3s ease 0s}
             .blog-home-banner .primary-btn:hover{background:transparent;border-color:#fff;color:#fff}.blog-home-banner .overlay-bg{background:rgba(0,0,0,0.5)}
